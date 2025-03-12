@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>C27CD06E-CC26-4B51-9491-BC5EE10EE8A2</title>
+    <defs>
+        <circle id="path-2" cx="17.8710938" cy="17.8710938" r="17.8710938"></circle>
+    </defs>
+    <g id="viewing-wireframe" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="vaf-web-full-page" transform="translate(-915.000000, -715.000000)">
+            <g id="Group-19" transform="translate(904.000000, 698.000000)">
+                <g id="Group-8" transform="translate(11.000000, 17.000000)">
+                    <g id="Icon" transform="translate(-0.000000, -0.000000)">
+                        <polygon id="Background" fill="url(#linearGradient-1)" transform="translate(25.000000, 25.000000) rotate(-270.000000) translate(-25.000000, -25.000000) " points="8.02391246e-15 -2.77555756e-15 50 -2.77555756e-15 50 50 8.02391246e-15 50"></polygon>
+                        <g id="Group" transform="translate(7.128906, 7.128906)">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <use id="Mask" fill="#FFFFFF" xlink:href="#path-2"></use>
+                            <g mask="url(#mask-3)">
+                                <g transform="translate(-9.531250, -2.978516)">
+                                    <polygon id="Path-3" fill="#00ABF0" points="0 47.0605469 0 0 7.54228746 0 27.4023437 20.728549"></polygon>
+                                    <polygon id="Path-4" fill="#065BA8" points="17.8150755 0 40.0886773 20.7707905 4.16992188 51.2304687 51.2304687 51.2304687 51.2304687 0"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
